@@ -1,0 +1,5 @@
+node_modules
+dist
+# Генерируются автоматически при сборке
+public/tracks.json
+public/covers

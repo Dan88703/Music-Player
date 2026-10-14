@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Название песни",
+    "artist": "Исполнитель",
+    "album": "Альбом (необязательно)",
+    "src": "https://your-bucket.public.blob.vercel-storage.com/song.mp3",
+    "cover": "https://example.com/cover.jpg"
+  }
+]
